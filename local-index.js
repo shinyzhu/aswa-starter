@@ -1,17 +1,9 @@
-const dogs = [
-    {name: 'Sammy'},
-    {name: 'Roscoe'},
-    {name: 'Pookie'},
-    {name: 'Bailey'},
-    {name: 'Butch'},
-    {name: 'Sunshine'},
-    {name: 'Keke'}
-]
+const dogs = []
 
 main();
 
 async function main() {
-    // await loadDogs();
+    await loadDogs();
     displayDogs();
 }
 
