@@ -4,7 +4,8 @@ const dogs = [
     {name: 'Pookie'},
     {name: 'Bailey'},
     {name: 'Butch'},
-    {name: 'Sunshine'}
+    {name: 'Sunshine'},
+    {name: 'Keke'}
 ]
 
 main();
